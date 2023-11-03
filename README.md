@@ -1,5 +1,6 @@
 ﻿# Curso Digital: Git
 
 # Salvando alterações
-* comando push
-* comando pull
+* comando git push
+* comando git pull
+* comando git fetch
